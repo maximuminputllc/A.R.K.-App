@@ -1,4 +1,3 @@
-# AI-Assisted Research Kit App (A.R.K.)
 # MGaut Ark System
 
 **MGaut Ark** is a modular, standards‑grade application designed with layered governance, accessibility, and operator empowerment at its core.  

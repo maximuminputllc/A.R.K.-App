@@ -1,0 +1,22 @@
+# MGaut Ark System – CODEOWNERS
+# This file defines code ownership for covenant branches.
+# GitHub will automatically request reviews from the listed owners
+# when changes are proposed to matching files or branches.
+
+# -----------------------------------------
+# Public Covenant (main)
+# All files in the main branch are owned by Maximum Input, LLC
+# -----------------------------------------
+* @MaximumInput
+
+# -----------------------------------------
+# Enterprise Covenant (enterprise)
+# All files in the enterprise branch are owned by Maximum Input, LLC
+# -----------------------------------------
+/* @MaximumInput
+
+# -----------------------------------------
+# Sovereign Covenant (sovereign)
+# All files in the sovereign branch are owned exclusively by the architect/operator
+# -----------------------------------------
+/* @MaximumInput
